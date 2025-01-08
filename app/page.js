@@ -11,8 +11,6 @@ const Page = () => {
             <AboutPage/>
         </div>
 
-        <div>Ask</div>
-
     )
 }
 export default Page
